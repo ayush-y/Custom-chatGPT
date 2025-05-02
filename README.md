@@ -1,3 +1,24 @@
+⚡ Features
+AI-powered interactions using OpenAI API
+
+Responsive UI for seamless user experience
+
+Lightweight and optimized for performance
+
+🛠️ Technologies Used
+Node.js - Server-side runtime
+
+Next.js - React framework for SSR & SPA
+
+OpenAI API - AI functionality
+
+CSS - Styling and theming
+
+dotenv - Environment configuration
+
+🎯 Contribution
+Feel free to contribute! Open pull requests for improvements, feature additions, or bug fixes.
+
 This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
 
 ## Getting Started
